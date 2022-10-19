@@ -1,0 +1,27 @@
+/* Add all your styles here */
+body{
+  text-align:center;
+  
+}
+h1{
+  font-family:'Permanent Marker',cursive;
+  color:salmon;
+  font-weight:bold;
+}
+button{
+  background:yellow;
+  color:darkgray;
+  border:1px solid yellow;
+  height:40px;
+  padding:10px 20px;
+  font-weight:bold;
+}
+input{
+  height:36px;
+  border:2px solid black;
+}
+.display{
+  color:green;
+  font-weight:bold;
+  
+}
